@@ -1,7 +1,7 @@
 ### Welcome to my World! 👋
 
 - 🧑🏻‍💻 I majored in Computer Engineering at Seoul National University of Science and Technology.
-- 🔭 I’m currently working on HTML,CSS,JavaScript
+- 🔭 I’m currently working on HTML, CSS, JavaScript
 - 🌱 I’m currently learning React, TypeScript, NextJS.
 
 
