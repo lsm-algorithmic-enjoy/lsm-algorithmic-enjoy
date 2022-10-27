@@ -1,6 +1,6 @@
 ### About Me🙋🏻‍♂️
 
-- 👨🏻‍🎓 I majored in Computer Engineering at Seoul National University of Science and Technology.
+- 🧑🏻‍💻 I majored in Computer Engineering at Seoul National University of Science and Technology.
 - 🔭 I’m currently working on HTML, CSS, JavaScript.
 - 🌱 I’m currently learning React, TypeScript, NextJS.
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HTML, CSS, Javascript
 - 🌱 I’m currently learning ReactJS, Typescript, NextJS.
-- 👯 I’m looking to collaborate on ...
+- 🧑🏻‍💻 I majored in Computer Engineering at Seoul National University of Science and Technology.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
