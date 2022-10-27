@@ -1,4 +1,4 @@
-### About Me🙋🏻‍♂️
+### 🙋🏻‍♂️About Me
 
 - 🧑🏻‍💻 I majored in Computer Engineering at Seoul National University of Science and Technology. (SeoulTech)
 - 🔭 I’m currently working on HTML, CSS, JavaScript.
