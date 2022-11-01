@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-- 🌱 I’m currently learning React, TypeScript, NextJS.
+- 🌱 I’m currently learning...
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning ReactJS, Typescript, NextJS.
+- 🌱 I’m currently learning ReactJS,
 
 - 🧑🏻‍💻 I majored in Computer Engineering at Seoul National University of Science and Technology.
 - 🤔 I’m looking for help with ...
