@@ -1,54 +1,45 @@
-### 🙋🏻‍♂️About Me
+# 🙋🏻‍♂️ About Me
 
-- 🧑🏻‍💻 I majored in Computer Engineering at Seoul National University of Science and Technology. (SeoulTech)
-- 🔭 I’m currently working on...
-  <br> 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-- 🌱 I’m currently learning...
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+- 🧑🏻‍💻 **Computer Science** Major | Dual background in **Industrial Information Systems**
+- 🛠️ **3+ Years** of field experience in development, operation, and automation workflows.
+- ⚡ Focused on **Vibe Coding**, rapid prototyping, and building production-ready apps with AI-assisted tools.
+- 📫 How to reach me: `k07217@naver.com`
 
+---
 
-<!--
-**lsm-algorithmic-enjoy/lsm-algorithmic-enjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+**Frontend & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-- 🔭 I’m currently working on 
+**Backend, Automation & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
 
-- 🌱 I’m currently learning ReactJS,
+---
 
-- 🧑🏻‍💻 I majored in Computer Engineering at Seoul National University of Science and Technology.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📜 Certifications
+- 🎓 **정보처리기사** (Engineer Information Processing)
+- 📊 **SQLD** (SQL Developer)
+- 📈 **ADsP** (Advanced Data Analytics Semi-Professional)
+- 💻 **정보처리기능사** (Craftsman Information Processing)
 
-<div align=center><h1>📚 STACKS</h1></div>
+---
 
-<div align=center> 
-
-  
-
-  <br>
-  
-
-  <br>
-  
-
-
-  
-
-  <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lsm-algorithmic-enjoy&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
-
--->
