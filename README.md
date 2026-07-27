@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ About Me
 
-- 🧑🏻‍💻 **Computer Science** Major | Dual background in **Industrial Information Systems**
+- 🧑🏻‍💻 **Computer Engineering** Major | Dual background in **Industrial Information Systems**
 - 🛠️ **3+ Years** of field experience in development, operation, and automation workflows.
 - ⚡ Focused on **Vibe Coding**, IT Education, rapid prototyping, and building production-ready apps with AI-assisted tools.
 - 📫 How to reach me: `k07217@naver.com`
