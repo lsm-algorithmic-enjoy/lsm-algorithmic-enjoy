@@ -36,7 +36,7 @@
 - 🎓 **정보처리기사** (Engineer Information Processing)
 - 📊 **SQLD** (SQL Developer)
 - 📈 **ADsP** (Advanced Data Analytics Semi-Professional)
-- 💻 **정보처리기능사** (Craftsman Information Processing)
+- 💻 **정보처리기능사** 
 
 ---
 
