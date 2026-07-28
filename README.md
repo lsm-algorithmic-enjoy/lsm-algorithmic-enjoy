@@ -21,7 +21,7 @@
 - **LG 에너지솔루션 이상 감지 솔루션 웹 시스템 개발** `2023.01 ~ 2024.07`
   - Industrial anomaly detection web dashboard & management interface.
 - **알뜰식탁 (SmartMealTable)** `2025.03 ~ 2025.12`
-  - **서울과학기술대학교 컴퓨터공학과 캡스톤디자인 1위 (Grand Prize)**
+  - **서울과학기술대학교 컴퓨터공학과 캡스톤디자인 졸업작품 1위 (Grand Prize)**
   - budget/preference-based meal recommendation system considering user location and expense logs.
   - **Role:** Product Planning, Wireframing, Frontend Development, and Deployment.
 
