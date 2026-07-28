@@ -9,7 +9,7 @@
 
 ### 💼 Work Experience
 
-- **AI solution start-up (Ellexi.inc)** | *Software Engineer* `2023.01 ~ 2024.07`
+- **AI solution start-up (Ellexi Inc.)** | *Software Engineer* `2023.01 ~ 2024.07`
   - Managed web system development, client requirements, and operational workflows.
 - **SeoulTech Information Technology Center** | *Intern* `2025.03 ~ 2025.08`
   - Assisted in campus IT infrastructure operations and internal system management.
