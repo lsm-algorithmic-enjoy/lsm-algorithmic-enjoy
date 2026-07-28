@@ -9,9 +9,9 @@
 
 ### 💼 Work Experience
 
-- **IT Startup** | *Software Engineer* `2023.01 ~ 2024.07`
+- **AI solution start-up (Ellexi)** | *Software Engineer* `2023.01 ~ 2024.07`
   - Managed web system development, client requirements, and operational workflows.
-- **SeoulTech 정보전산원** | *Intern* `2025.03 ~ 2025.08`
+- **SeoulTech Information Technology Center** | *Intern* `2025.03 ~ 2025.08`
   - Assisted in campus IT infrastructure operations and internal system management.
 
 ---
@@ -20,7 +20,7 @@
 
 - **LG 에너지솔루션 이상 감지 솔루션 웹 시스템 개발** `2023.01 ~ 2024.07`
   - Industrial anomaly detection web dashboard & management interface.
-- **알뜰식탁 (Smart Budget Meal Planner)** `2025.09 ~ 2025.12`
+- **알뜰식탁 (SmartMealTable)** `2025.03 ~ 2025.12`
   - **서울과학기술대학교 컴퓨터공학과 캡스톤디자인 1위 (Grand Prize)**
   - budget/preference-based meal recommendation system considering user location and expense logs.
   - **Role:** Product Planning, Wireframing, Frontend Development, and Deployment.
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
