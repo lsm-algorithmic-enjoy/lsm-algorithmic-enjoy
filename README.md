@@ -29,6 +29,7 @@
 
 ### 👥 Activities
 
+- **SK AX Skala** | *4th Member* `2026.07 ~`
 - **Darakbang** (SeoulTech CSE Academic Club) | *32th Member* `2022.03 ~ 2025.12`
 
 ---
