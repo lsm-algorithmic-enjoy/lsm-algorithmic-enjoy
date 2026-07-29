@@ -50,10 +50,10 @@
 
 ### 📜 Certifications
 
-- 🎓 **정보처리기사** (Engineer Information Processing)
+- 🎓 **정보처리기사** (Information Processing Engineer)
 - 📊 **SQLD** (SQL Developer)
 - 📈 **ADsP** (Advanced Data Analytics Semi-Professional)
-- 💻 **정보처리기능사** (Craftsman Information Processing)
+- 💻 **정보처리기능사** 
 
 ---
 
